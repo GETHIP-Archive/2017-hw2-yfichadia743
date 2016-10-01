@@ -2,9 +2,9 @@
     "firstName":"Yash",
     "lastName":"Fichadia",
     "age":21,
-    "picture": "C:\Users\ashokf\Desktop\2017-hw2-yfichadia743\Student Picture.jpg",
+    "picture": "https://farm3.staticflickr.com/2101/2284091642_f71cc01ecc_z.jpg",
     "nickNames": [
-        {"nick": "Fitz"},
-        {"nick": "Big Money"}
+        {"nick": "Yoshi"},
+        {"nick": "Yash Fishadia"}
     ]
 }
