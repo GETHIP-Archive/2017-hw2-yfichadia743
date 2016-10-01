@@ -1,0 +1,10 @@
+{
+    "firstName":"Yash",
+    "lastName":"Fichadia",
+    "age":21,
+    "picture": "C:\Users\ashokf\Desktop\2017-hw2-yfichadia743\Student Picture.jpg",
+    "nickNames": [
+        {"nick": "Fitz"},
+        {"nick": "Big Money"}
+    ]
+}
