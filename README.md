@@ -2,6 +2,8 @@
 
 The purpose of this homework assignment is to get familiar with writing json objects and working with git and GitHub
 
+https://classroom.github.com/assignment-invitations/407b7322e70319536d92ae2b6f45909e
+
 ##Create a json Object of Yourself
 You will create a json object that will be used to pass information to an about me page.
 
